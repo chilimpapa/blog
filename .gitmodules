@@ -1,0 +1,8 @@
+[submodule "chilimpapa.github.io"]
+	path = chilimpapa.github.io
+	url = git@github.com:chilimpapa/chilimpapa.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:chilimpapa/chilimpapa.github.io.git
+	branch = main
